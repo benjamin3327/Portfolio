@@ -4,7 +4,7 @@ import Profile from '../assets/images/profile.jpeg';
 
 const About = () => {
     return(
-        <div className="aboutContainer">
+        <section className="aboutContainer">
             <div className="row">
                 <div className="col-sm-12">
                     <div className="box-shadow-full">
@@ -47,7 +47,7 @@ const About = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     )
 }
 export default About;

@@ -3,7 +3,7 @@ const items = [
         id: 1,
         title: "E-commerce App",
         category: "Mobile App Design",
-        image: "../assets/images/work-1.png",
+        image: "images/work-1.png",
         alt: "Ecommerce",
         link: ""
     },
@@ -11,7 +11,7 @@ const items = [
         id: 2,
         title: "Food Ordering App",
         category: "Mobile App Design",
-        image: "../assets/images/work-2.png",
+        image: "images/work-2.png",
         alt: "Food Ordering App",
         link: ""
     },
@@ -19,7 +19,7 @@ const items = [
         id: 3,
         title: "Local Dish Restuarant Finder",
         category: "Mobile App Design",
-        image: "../assets/images/work-3.png",
+        image: "images/work-3.png",
         alt: "local dish app",
         link: ""
     },
@@ -27,7 +27,7 @@ const items = [
         id: 4,
         title: "Joanah Consulting",
         category: "Web Application",
-        image: "../assets/images/joanah home.png",
+        image: "images/joanah home.png",
         alt: "consultancy",
         link: "https://joanaheyereconsulting.com"
     },
@@ -35,7 +35,7 @@ const items = [
         id: 5,
         title: "Davidston Organic Farm",
         category: "Web Application",
-        image: "../assets/images/davidstonfarm.png",
+        image: "images/davidstonfarm.png",
         alt: "Davidston organic farm",
         link: "https://davidstonfarm.com"
     },
@@ -43,7 +43,7 @@ const items = [
         id: 6,
         title: "Davidston Store",
         category: "Web Application",
-        image: "../assets/images/davidstonstore.png",
+        image: "images/davidstonstore.png",
         alt: "Davidston store",
         link: "https://store.davidstonfarm.com"
     },

@@ -6,6 +6,7 @@ const Portfolio = () => {
     const portItems = items.map(portItem => {
         return(
             <PortfolioItems 
+                key={portItem.id}
                 title={portItem.title}
                 category={portItem.category}
                 image={portItem.image} 

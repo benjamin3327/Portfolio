@@ -13,7 +13,7 @@ const Works = () => {
                                 <span className="ico-circle"><i className="ion-ios-calendar-outline"></i></span>
                             </div>
                             <div className="counter-num">
-                                <p className="counter">2</p>
+                                <p className="counter">3</p>
                                 <span className="counter-text">YEARS OF EXPERIENCE</span>
                             </div>
                         </div>

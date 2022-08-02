@@ -15,7 +15,7 @@ const Navbar = () =>  {
                 <div className="navbar-collapse collapse justify-content-end">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <a className="nav-link js-scroll active" href="#home">Home</a>
+                            <a className="nav-link js-scroll active" href="/home">Home</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link js-scroll" href="#about">About</a>
@@ -30,7 +30,7 @@ const Navbar = () =>  {
                             <a className="nav-link js-scroll" href="#contact">Contact</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link js-scroll" href="gallery.html">Gallery</a>
+                            <a className="nav-link js-scroll" href="gallery">Gallery</a>
                         </li>
                     </ul>
                 </div>
