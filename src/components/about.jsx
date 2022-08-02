@@ -19,7 +19,7 @@ const About = () => {
                                     <div className="col-sm-6 col-md-7">
                                         <div className="about-info">
                                             <p><span className="title-s">Name: </span> <span>Busari Benjamin</span></p>
-                                            <p><span className="title-s">Profile: </span> <span>Junior Software Engineer</span></p>
+                                            <p><span className="title-s">Profile: </span> <span>Software Engineer</span></p>
                                             <p><span className="title-s">Email: </span> <span>benjaminbusari@gmail.com</span></p>
                                             <p><span className="title-s">Phone: </span> <span>+2349055476920</span></p>
                                         </div>
